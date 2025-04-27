@@ -22,3 +22,9 @@ Marketing strategies should prioritize PPC channels, focus on awareness campaign
 
 
 _This project is part of my portfolio showcasing business analytics and marketing insights skills._
+## 📂 Dataset Source
+The dataset used in this project is from Kaggle:  
+[Basic Marketing Analysis (Web and RFM)](https://www.kaggle.com/datasets/hongmingding/basic-marketing-analysis-web-and-rfm)  
+Created by: Hongming Ding
+
+The dataset simulates customer behavior and marketing campaign performance for learning and analytical purposes.
