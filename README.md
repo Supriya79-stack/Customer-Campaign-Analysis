@@ -1,9 +1,9 @@
-# Customer-Campaign-Analysis
+# Marketing Campaign-Analysis
 Marketing and business analysis of customer campaign data using Python and visualization.
-# Customer Campaign Analysis 📊
+# Marketing Campaign Analysis 📊
 
 ## Project Overview
-This project analyzes customer campaign data to evaluate the effectiveness of marketing strategies.  
+This project analyzes Marketing campaign data to evaluate the effectiveness of marketing strategies.  
 The goal is to identify key insights regarding campaign performance, customer engagement, and conversion trends.
 
 ## Key Tools
